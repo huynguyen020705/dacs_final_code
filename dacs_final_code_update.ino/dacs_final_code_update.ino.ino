@@ -26,8 +26,8 @@
 #define BTN_MUTE_PIN  25  
 
 // --- CẤU HÌNH WIFI ---
-char ssid[] = "My Home 2.4GHZ";
-char pass[] = "1009@0207@1403";
+char ssid[] = "***";
+char pass[] = "***";
 
 // --- KHỞI TẠO ĐỐI TƯỢNG ---
 #define DHTTYPE DHT22     
